@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>DialogPivot</class>
+ <widget class="QDialog" name="DialogPivot">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>222</width>
+    <height>210</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QLabel" name="label">
+     <property name="font">
+      <font>
+       <pointsize>8</pointsize>
+       <weight>50</weight>
+       <bold>false</bold>
+       <underline>false</underline>
+      </font>
+     </property>
+     <property name="text">
+      <string>Choisissez une table pour la clé secondaire</string>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignCenter</set>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QListWidget" name="listWidget1">
+     <property name="styleSheet">
+      <string notr="true">background-color:#fff;
+border:1px solid #ccc;</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="bouton1">
+     <property name="styleSheet">
+      <string notr="true">QPushButton {
+padding:4px;
+border:solid;
+color: white;
+font-size: 12px;
+font-weight: 400;
+background: #34495e;
+}
+
+QPushButton:pressed {
+background: #2D3F51;
+color: white;
+}
+
+QPushButton:hover {
+background: #1C2E40;
+color: white;
+}</string>
+     </property>
+     <property name="text">
+      <string>Valider!</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
