@@ -1,0 +1,93 @@
+ARRAY|
+BIGINT|
+BINARY VARYING|
+BINARY|
+BOOLEAN|
+CHARACTER VARYING|
+CHARACTER|
+CHAR|
+DATETIME|
+DATE|
+DECIMAL|
+DOUBLE PRECISION|
+FLOAT|
+INTEGER|
+INTERVAL|
+INT|
+MEDIUMINT|
+MULTISET|
+NUMBER|
+NUMERIC|
+REAL|
+SMALLINT UNSIGNED|
+SMALLINT|
+TEXT|
+TIMESTAMP|
+TIME|
+VARBINARY|
+VARCHAR2|
+VARCHAR|
+XML|
+ENUM|
+array|
+bigint|
+binary varying|
+binary|
+boolean|
+character varying|
+character|
+char|
+datetime|
+date|
+decimal|
+double precision|
+float|
+integer|
+interval|
+int|
+mediumint|
+multiset|
+number|
+numeric|
+real|
+smallint unsigned|
+smallint|
+text|
+timestamp|
+time|
+varbinary|
+varchar2|
+varchar|
+xml|
+enum|
+Array|
+Bigint|
+Binary varying|
+Binary|
+Boolean|
+Character varying|
+Character|
+Char|
+Datetime|
+Date|
+Decimal|
+Double precision|
+Float|
+Integer|
+Interval|
+Int|
+Mediumint|
+Multiset|
+Number|
+Numeric|
+Real|
+Smallint unsigned|
+Smallint|
+Text|
+Timestamp|
+Time|
+Varbinary|
+Varchar2|
+Varchar|
+Xml|
+Enum
